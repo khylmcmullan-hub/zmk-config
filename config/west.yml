@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: nv-gem
       url: https://github.com/MechboardsLTD/zmk-module
-      revision: nv-gem
+      revision: nv_gem
   self:
     path: config
